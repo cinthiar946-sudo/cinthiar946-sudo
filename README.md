@@ -30,7 +30,7 @@ Dando meus primeiros passos no mundo da programação, com entusiasmo e muita vo
 
 ###
 
-<h3 align="left">🛠 Linguas e ferramentas</h3>
+<h3 align="left">Testes automatizados | JavaScript | Planejamento de testes | Documentação | Testes manuais | Mobile Testing | Android Studio | API Testing | UI Testing | Testes de regressão | Debugging | Agile | JIRA | Postman | Charles | SQL | Console | Bash | WebDriverIO | Selenium | JSON | Figma | Node.js | DevTools | GitHub | Gi🛠 Linguas e ferramentas</h3>
 
 ###
 
