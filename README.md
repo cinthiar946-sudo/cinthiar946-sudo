@@ -23,7 +23,7 @@
 ###
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
-
+Dando meus primeiros passos no mundo da programação, com entusiasmo e muita vontade de aprender
 ###
 
 <p align="left">Me chamo Cinthia, tenho 39 anos, estou morando atualmente em Lisboa-Portugal<br><br>- 🔭 Estou em busca de um trabalho como analista de QA<br>- 📚 Atualmente estou fazendo um bootcamp na TripleTen, para Analista de QA<br>- ⚡ No meu tempo livre gosto de passear com minha familia, além de brincar com minha cadelinha</p>
