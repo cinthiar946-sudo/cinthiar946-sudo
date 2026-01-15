@@ -29,9 +29,9 @@
 
 
 
-<h3 align="left">Testes automatizados | JavaScript | Planejamento de testes | Documentação | Testes manuais | Mobile Testing | Android Studio | API Testing | UI Testing | Testes de regressão | Debugging | Agile | JIRA | Postman | Charles | SQL | Console | Bash | WebDriverIO | Selenium | JSON | Figma | Node.js | DevTools | GitHub | Gi🛠 Linguas e ferramentas</h3>
+<h3 align="left">Testes automatizados| Planejamento de testes | Documentação | Testes manuais | Mobile Testing | Android Studio | API Testing | UI Testing | Testes de regressão | Debugging | Agile | JIRA | Postman | Charles | SQL | Console | Bash | WebDriverIO | Selenium | JSON | Figma | Node.js | DevTools | GitHub | Gi🛠 Linguas e ferramentas| Noções básicas de teste | Design de teste | Teste de Aplicativos web | Teste de API | Noções básicas de banco de dados | Python | PyCharm | Pyrest 
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
