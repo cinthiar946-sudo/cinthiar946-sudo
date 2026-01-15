@@ -26,7 +26,8 @@
 Dando meus primeiros passos no mundo da programação, com entusiasmo e muita vontade de aprender!
 
 
-<p align="left">Me chamo Cinthia, tenho 39 anos, estou morando atualmente em Lisboa-Portugal<br><br>- 🔭 Estou em busca de um trabalho como analista de QA júnior<br>- 📚Estou fazendo bootcamp na TripleTen, para Analista de QA<br>-Aprendi a usar ferramentas Python, PyCharm, Postman API, RES e JSON, ApiDoc e Swagger, análise de log, banco de dados, conexão com um servidor remoto, linha de comando, teste de regressão , teste de automação, SQL, Relatórios de bug, casos de testes, Fluxograma, mapa mental, classes de equivalência, análise de teste, desigb de teste checklists, valores-limite, HTTP, teste de GUI, Front-end e Back-end, layouts e figma, relatório de bug no jira, cookies, cash armazenamento local, teste de plataformas e navegadores.>- ⚡ No meu tempo livre gosto de passear com minha familia, além de brincar com minha cadelinha</p>
+<p align="left">Me chamo Cinthia, tenho 39 anos, estou morando atualmente em Lisboa-Portugal<br><br>- 🔭 Estou em busca de um trabalho como analista de QA júnior<br>- 📚Estou fazendo bootcamp na TripleTen, para Analista de QA<br>-Aprendi a usar ferramentas Python, PyCharm, Postman API, RES e JSON, ApiDoc e Swagger, análise de log, banco de dados, conexão com um servidor remoto, linha de comando, teste de regressão , teste de automação, SQL, Relatórios de bug, casos de testes, Fluxograma, mapa mental, classes de equivalência, análise de teste, desigb de teste checklists, valores-limite, HTTP, teste de GUI, Front-end e Back-end, layouts e figma, relatório de bug no jira, cookies, cash armazenamento local, teste de plataformas e navegadores.>-
+  ⚡ No meu tempo livre gosto de passear com minha familia, além de brincar com minha cadelinha.</p>
 
 
 
